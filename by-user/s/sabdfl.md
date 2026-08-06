@@ -1,0 +1,13 @@
+- 2005-11-07 [Kubuntu and KDE support](https://ubuntuforums.popey.com/showthread.php?t=87000#post-1) — The Cafe <!--t:87000-->
+- 2006-12-12 [Nomination of Matthew Helmke (matthew) to the Forums Council](https://ubuntuforums.popey.com/showthread.php?t=317446#post-1) — The Cafe <!--t:317446-->
+- 2007-06-15 SJVN: Ubuntu possibly to partner with Microsoft — The Cafe <!--t:474582-->
+  - 2007-06-15 [comment 16](https://ubuntuforums.popey.com/showthread.php?t=474582#post-16) <!--t:474582-->
+- 2007-04-23 [Vote on candidates for the Community Council](https://ubuntuforums.popey.com/showthread.php?t=419611#post-1) — The Cafe <!--t:419611-->
+- 2005-11-07 Shuttleworth uses Kubuntu, aims to make it first-class distro — The Cafe <!--t:86769-->
+  - 2005-11-07 [comment 40](https://ubuntuforums.popey.com/showthread.php?t=86769#post-40) <!--t:86769-->
+- 2005-04-04 African Linux Project — The Cafe <!--t:23791-->
+  - 2005-04-04 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=23791#post-4) <!--t:23791-->
+- 2006-12-12 [Nomination of Mike Basinger (mike) to the Forums Council](https://ubuntuforums.popey.com/showthread.php?t=317445#post-1) — The Cafe <!--t:317445-->
+- 2007-01-14 What does Mark Shuttleworth's desktop look like? — The Cafe <!--t:337251-->
+  - 2007-01-14 [comment 28](https://ubuntuforums.popey.com/showthread.php?t=337251#post-28) <!--t:337251-->
+- 2006-09-26 [Invitating forums participants to Ubuntu Summit in Mountain View, November 2006](https://ubuntuforums.popey.com/showthread.php?t=265814#post-1) — Forum Feedback &amp; Help <!--t:265814-->
