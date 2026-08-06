@@ -1,0 +1,690 @@
+- 2007-10-27 [How do I get my PHP working with Apache2?](https://ubuntuforums.popey.com/showthread.php?t=593321#post-1) — General Help <!--t:593321-->
+  - 2007-10-27 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=593321#post-2) <!--t:593321-->
+  - 2007-10-27 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=593321#post-4) <!--t:593321-->
+  - 2007-10-27 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=593321#post-5) <!--t:593321-->
+- 2007-08-08 [Is there a gFTP Alternative?](https://ubuntuforums.popey.com/showthread.php?t=520351#post-1) — General Help <!--t:520351-->
+- 2006-04-01 Why Pink? — General Help <!--t:153440-->
+  - 2006-04-01 [comment 14](https://ubuntuforums.popey.com/showthread.php?t=153440#post-14) <!--t:153440-->
+- 2007-06-19 [how do i install the pidgin plugin for awn?](https://ubuntuforums.popey.com/showthread.php?t=478215#post-1) — General Help <!--t:478215-->
+  - 2007-06-19 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=478215#post-2) <!--t:478215-->
+- 2007-06-17 [Pidgin help : Compiled but SSL error for msn/gtalk](https://ubuntuforums.popey.com/showthread.php?t=476262#post-1) — General Help <!--t:476262-->
+- 2007-10-27 [HELP! I deleted /var/* !!!](https://ubuntuforums.popey.com/showthread.php?t=593470#post-1) — General Help <!--t:593470-->
+  - 2007-10-27 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=593470#post-2) <!--t:593470-->
+  - 2007-10-27 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=593470#post-3) <!--t:593470-->
+  - 2007-10-27 [comment 6](https://ubuntuforums.popey.com/showthread.php?t=593470#post-6) <!--t:593470-->
+  - 2007-10-27 [comment 7](https://ubuntuforums.popey.com/showthread.php?t=593470#post-7) <!--t:593470-->
+  - 2007-10-27 [comment 10](https://ubuntuforums.popey.com/showthread.php?t=593470#post-10) <!--t:593470-->
+- 2006-03-31 [re: Why WINE not &quot;MACE](https://ubuntuforums.popey.com/showthread.php?t=153383#post-1) — General Help <!--t:153383-->
+- 2006-05-20 [Help: Root File System Error...](https://ubuntuforums.popey.com/showthread.php?t=179510#post-1) — General Help <!--t:179510-->
+  - 2006-05-20 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=179510#post-3) <!--t:179510-->
+  - 2006-05-20 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=179510#post-4) <!--t:179510-->
+  - 2006-05-20 [comment 6](https://ubuntuforums.popey.com/showthread.php?t=179510#post-6) <!--t:179510-->
+  - 2006-05-20 [comment 7](https://ubuntuforums.popey.com/showthread.php?t=179510#post-7) <!--t:179510-->
+  - 2006-05-20 [comment 9](https://ubuntuforums.popey.com/showthread.php?t=179510#post-9) <!--t:179510-->
+- 2006-06-13 Google Earth v4: Now with linux support — General Help <!--t:195335-->
+  - 2006-06-13 [comment 32](https://ubuntuforums.popey.com/showthread.php?t=195335#post-32) <!--t:195335-->
+- 2008-06-23 HOW TO: Make Ubuntu Look Like XP — General Help <!--t:821146-->
+  - 2008-06-23 [comment 9](https://ubuntuforums.popey.com/showthread.php?t=821146#post-9) <!--t:821146-->
+- 2006-04-09 [how do i 'upgrade' to ubuntu...](https://ubuntuforums.popey.com/showthread.php?t=157381#post-1) — General Help <!--t:157381-->
+  - 2006-04-09 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=157381#post-4) <!--t:157381-->
+  - 2006-04-09 [comment 6](https://ubuntuforums.popey.com/showthread.php?t=157381#post-6) <!--t:157381-->
+  - 2006-04-09 [comment 7](https://ubuntuforums.popey.com/showthread.php?t=157381#post-7) <!--t:157381-->
+- 2006-05-31 [Installing Opera 8.xx...blah](https://ubuntuforums.popey.com/showthread.php?t=185055#post-1) — General Help <!--t:185055-->
+  - 2006-05-31 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=185055#post-3) <!--t:185055-->
+- 2008-12-12 [GPG Problem?](https://ubuntuforums.popey.com/showthread.php?t=1009026#post-1) — General Help <!--t:1009026-->
+- 2006-03-31 [Hi.](https://ubuntuforums.popey.com/showthread.php?t=153409#post-1) — General Help <!--t:153409-->
+- 2006-04-05 [Question about ROOT](https://ubuntuforums.popey.com/showthread.php?t=155449#post-1) — General Help <!--t:155449-->
+  - 2006-04-05 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=155449#post-4) <!--t:155449-->
+  - 2006-04-05 [comment 6](https://ubuntuforums.popey.com/showthread.php?t=155449#post-6) <!--t:155449-->
+- 2006-03-29 [how do i get into...](https://ubuntuforums.popey.com/showthread.php?t=152051#post-1) — General Help <!--t:152051-->
+  - 2006-03-29 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=152051#post-3) <!--t:152051-->
+  - 2006-03-29 [comment 6](https://ubuntuforums.popey.com/showthread.php?t=152051#post-6) <!--t:152051-->
+- 2008-04-28 Ubuntu still not ready for mainstreaming — Testimonials &amp; Experiences <!--t:773192-->
+  - 2008-04-28 [comment 8](https://ubuntuforums.popey.com/showthread.php?t=773192#post-8) <!--t:773192-->
+- 2008-12-12 [How do I mount an SD card that isn't automatically?](https://ubuntuforums.popey.com/showthread.php?t=1009658#post-1) — New to Ubuntu <!--t:1009658-->
+  - 2008-12-12 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=1009658#post-4) <!--t:1009658-->
+  - 2008-12-12 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=1009658#post-5) <!--t:1009658-->
+  - 2008-12-12 [comment 7](https://ubuntuforums.popey.com/showthread.php?t=1009658#post-7) <!--t:1009658-->
+  - 2008-12-13 [comment 9](https://ubuntuforums.popey.com/showthread.php?t=1009658#post-9) <!--t:1009658-->
+  - 2008-12-26 [comment 10](https://ubuntuforums.popey.com/showthread.php?t=1009658#post-10) <!--t:1009658-->
+- 2008-04-30 Permision Denied. — New to Ubuntu <!--t:776499-->
+  - 2008-04-30 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=776499#post-2) <!--t:776499-->
+- 2008-04-30 Problems with newly installed Linux — New to Ubuntu <!--t:776360-->
+  - 2008-04-30 [comment 13](https://ubuntuforums.popey.com/showthread.php?t=776360#post-13) <!--t:776360-->
+- 2008-05-02 wireless -card how to install? — New to Ubuntu <!--t:778511-->
+  - 2008-05-02 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=778511#post-2) <!--t:778511-->
+- 2008-04-30 How To Create An Irc Account — New to Ubuntu <!--t:775671-->
+  - 2008-04-30 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=775671#post-4) <!--t:775671-->
+- 2008-05-03 Copy/Move Files — New to Ubuntu <!--t:780234-->
+  - 2008-05-03 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=780234#post-5) <!--t:780234-->
+- 2008-04-27 Question about nvidia drivers — New to Ubuntu <!--t:771430-->
+  - 2008-04-27 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=771430#post-5) <!--t:771430-->
+- 2008-06-15 \[REPOST\] Can someone PLEASE help w/ Microphone Issues? — New to Ubuntu <!--t:829620-->
+  - 2008-06-15 [comment 6](https://ubuntuforums.popey.com/showthread.php?t=829620#post-6) <!--t:829620-->
+- 2008-04-27 How can I run C script file — New to Ubuntu <!--t:770297-->
+  - 2008-04-27 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=770297#post-4) <!--t:770297-->
+  - 2008-04-27 [comment 9](https://ubuntuforums.popey.com/showthread.php?t=770297#post-9) <!--t:770297-->
+  - 2008-04-27 [comment 10](https://ubuntuforums.popey.com/showthread.php?t=770297#post-10) <!--t:770297-->
+  - 2008-04-27 [comment 12](https://ubuntuforums.popey.com/showthread.php?t=770297#post-12) <!--t:770297-->
+  - 2008-04-27 [comment 13](https://ubuntuforums.popey.com/showthread.php?t=770297#post-13) <!--t:770297-->
+- 2008-04-30 Can't log in as root in hardy???! — New to Ubuntu <!--t:776419-->
+  - 2008-04-30 [comment 7](https://ubuntuforums.popey.com/showthread.php?t=776419#post-7) <!--t:776419-->
+- 2008-10-13 Desperate please, Want to completely uninstall Ubuntu! — New to Ubuntu <!--t:946739-->
+  - 2008-10-13 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=946739#post-5) <!--t:946739-->
+- 2008-04-27 How to delete — New to Ubuntu <!--t:770196-->
+  - 2008-04-27 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=770196#post-2) <!--t:770196-->
+- 2008-04-30 Any MS publisher similar software for Ubuntu? — New to Ubuntu <!--t:774930-->
+  - 2008-04-30 [comment 10](https://ubuntuforums.popey.com/showthread.php?t=774930#post-10) <!--t:774930-->
+- 2008-04-30 Help! What is an Operating System? — New to Ubuntu <!--t:775123-->
+  - 2008-04-30 [comment 12](https://ubuntuforums.popey.com/showthread.php?t=775123#post-12) <!--t:775123-->
+- 2008-04-27 reinstall the gnome slide bars — New to Ubuntu <!--t:770182-->
+  - 2008-04-27 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=770182#post-3) <!--t:770182-->
+- 2008-04-27 usb in virtual box — New to Ubuntu <!--t:764402-->
+  - 2008-04-27 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=764402#post-5) <!--t:764402-->
+- 2008-05-03 no var/www in hardy what is the equivalent — New to Ubuntu <!--t:780775-->
+  - 2008-05-03 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=780775#post-4) <!--t:780775-->
+- 2008-04-27 Shell script: Getting the user's home directory? — New to Ubuntu <!--t:771643-->
+  - 2008-04-27 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=771643#post-4) <!--t:771643-->
+  - 2008-04-27 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=771643#post-5) <!--t:771643-->
+  - 2008-04-27 [comment 11](https://ubuntuforums.popey.com/showthread.php?t=771643#post-11) <!--t:771643-->
+  - 2008-04-27 [comment 13](https://ubuntuforums.popey.com/showthread.php?t=771643#post-13) <!--t:771643-->
+  - 2008-04-27 [comment 16](https://ubuntuforums.popey.com/showthread.php?t=771643#post-16) <!--t:771643-->
+- 2008-04-27 installing 8.04 — New to Ubuntu <!--t:771663-->
+  - 2008-04-27 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=771663#post-4) <!--t:771663-->
+- 2009-04-24 good hashing program — New to Ubuntu <!--t:1136317-->
+  - 2009-04-24 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=1136317#post-2) <!--t:1136317-->
+- 2008-04-30 \[SOLVED\] Can I delete GRUB? — New to Ubuntu <!--t:776354-->
+  - 2008-04-30 [comment 9](https://ubuntuforums.popey.com/showthread.php?t=776354#post-9) <!--t:776354-->
+  - 2008-04-30 [comment 11](https://ubuntuforums.popey.com/showthread.php?t=776354#post-11) <!--t:776354-->
+  - 2008-04-30 [comment 14](https://ubuntuforums.popey.com/showthread.php?t=776354#post-14) <!--t:776354-->
+  - 2008-04-30 [comment 16](https://ubuntuforums.popey.com/showthread.php?t=776354#post-16) <!--t:776354-->
+- 2008-04-27 Wireless Card — New to Ubuntu <!--t:771432-->
+  - 2008-04-27 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=771432#post-2) <!--t:771432-->
+- 2008-04-27 laptop speakers problem — New to Ubuntu <!--t:769389-->
+  - 2008-04-27 [comment 7](https://ubuntuforums.popey.com/showthread.php?t=769389#post-7) <!--t:769389-->
+- 2008-05-01 mac styel menu — New to Ubuntu <!--t:776835-->
+  - 2008-05-01 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=776835#post-5) <!--t:776835-->
+- 2008-04-27 sudo or gksudo or su — New to Ubuntu <!--t:771435-->
+  - 2008-04-27 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=771435#post-2) <!--t:771435-->
+- 2008-04-30 How to adjust Brightness and contrast on desktop? — New to Ubuntu <!--t:775035-->
+  - 2008-04-30 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=775035#post-4) <!--t:775035-->
+- 2008-09-15 intel proset/wireless 3945ABG not working, HELP — New to Ubuntu <!--t:920017-->
+  - 2008-09-15 [comment 30](https://ubuntuforums.popey.com/showthread.php?t=920017#post-30) <!--t:920017-->
+- 2008-05-29 \[SOLVED\] missing elgamal encryption key — New to Ubuntu <!--t:811335-->
+  - 2008-05-29 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=811335#post-2) <!--t:811335-->
+- 2008-11-15 How do I delete a file through the terminal? — New to Ubuntu <!--t:983337-->
+  - 2008-11-15 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=983337#post-3) <!--t:983337-->
+- 2008-04-29 still no wireless — New to Ubuntu <!--t:773958-->
+  - 2008-04-29 [comment 6](https://ubuntuforums.popey.com/showthread.php?t=773958#post-6) <!--t:773958-->
+- 2008-05-15 wine — New to Ubuntu <!--t:794939-->
+  - 2008-05-15 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=794939#post-4) <!--t:794939-->
+  - 2008-05-15 [comment 8](https://ubuntuforums.popey.com/showthread.php?t=794939#post-8) <!--t:794939-->
+  - 2008-05-15 [comment 11](https://ubuntuforums.popey.com/showthread.php?t=794939#post-11) <!--t:794939-->
+  - 2008-05-15 [comment 13](https://ubuntuforums.popey.com/showthread.php?t=794939#post-13) <!--t:794939-->
+  - 2008-05-15 [comment 15](https://ubuntuforums.popey.com/showthread.php?t=794939#post-15) <!--t:794939-->
+  - 2008-05-15 [comment 16](https://ubuntuforums.popey.com/showthread.php?t=794939#post-16) <!--t:794939-->
+- 2008-04-28 Still Learning Quickly!!! Would Anyone Recommend Using Virtualbox ?... — New to Ubuntu <!--t:773219-->
+  - 2008-04-28 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=773219#post-3) <!--t:773219-->
+- 2008-05-04 \[SOLVED\] Help running out of room? — New to Ubuntu <!--t:781064-->
+  - 2008-05-04 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=781064#post-2) <!--t:781064-->
+- 2008-05-01 File converter program? — New to Ubuntu <!--t:777975-->
+  - 2008-05-01 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=777975#post-2) <!--t:777975-->
+- 2008-11-15 How do you run a python script as the root user? — New to Ubuntu <!--t:980540-->
+  - 2008-11-15 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=980540#post-5) <!--t:980540-->
+- 2008-06-21 Automaticly unpack compressed files? — New to Ubuntu <!--t:836045-->
+  - 2008-06-21 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=836045#post-3) <!--t:836045-->
+  - 2008-06-21 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=836045#post-5) <!--t:836045-->
+  - 2008-06-21 [comment 6](https://ubuntuforums.popey.com/showthread.php?t=836045#post-6) <!--t:836045-->
+- 2008-06-15 Simple questions — New to Ubuntu <!--t:829664-->
+  - 2008-06-15 [comment 9](https://ubuntuforums.popey.com/showthread.php?t=829664#post-9) <!--t:829664-->
+- 2008-04-30 Need permission to save file — New to Ubuntu <!--t:776610-->
+  - 2008-04-30 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=776610#post-3) <!--t:776610-->
+- 2008-04-28 Gnome Panels gone — New to Ubuntu <!--t:773309-->
+  - 2008-04-28 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=773309#post-3) <!--t:773309-->
+- 2008-05-27 hardy: locate, s and m — New to Ubuntu <!--t:808935-->
+  - 2008-05-27 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=808935#post-2) <!--t:808935-->
+- 2008-04-27 Need help fixing sloppy HDD — New to Ubuntu <!--t:771652-->
+  - 2008-04-27 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=771652#post-2) <!--t:771652-->
+- 2008-04-28 How to load Ubuntu without CD? — New to Ubuntu <!--t:771760-->
+  - 2008-04-28 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=771760#post-4) <!--t:771760-->
+- 2008-04-30 Pidgin and Webcam — New to Ubuntu <!--t:776210-->
+  - 2008-04-30 [comment 13](https://ubuntuforums.popey.com/showthread.php?t=776210#post-13) <!--t:776210-->
+- 2008-04-30 few simple kde 4 problems — New to Ubuntu <!--t:774552-->
+  - 2008-04-30 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=774552#post-4) <!--t:774552-->
+- 2008-04-30 No wireless — New to Ubuntu <!--t:765478-->
+  - 2008-04-30 [comment 23](https://ubuntuforums.popey.com/showthread.php?t=765478#post-23) <!--t:765478-->
+- 2008-04-30 What is my system doing? — New to Ubuntu <!--t:775890-->
+  - 2008-04-30 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=775890#post-3) <!--t:775890-->
+- 2008-04-30 How fast does Hardy Boot ? — New to Ubuntu <!--t:775698-->
+  - 2008-04-30 [comment 12](https://ubuntuforums.popey.com/showthread.php?t=775698#post-12) <!--t:775698-->
+- 2008-10-13 \[SOLVED\] How do I get and install Beryl — New to Ubuntu <!--t:947014-->
+  - 2008-10-13 [comment 6](https://ubuntuforums.popey.com/showthread.php?t=947014#post-6) <!--t:947014-->
+  - 2008-10-14 [comment 9](https://ubuntuforums.popey.com/showthread.php?t=947014#post-9) <!--t:947014-->
+- 2008-04-30 \[SOLVED\] Rename Hyperlink Globally In Web Project — New to Ubuntu <!--t:775817-->
+  - 2008-04-30 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=775817#post-2) <!--t:775817-->
+  - 2008-04-30 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=775817#post-5) <!--t:775817-->
+  - 2008-04-30 [comment 7](https://ubuntuforums.popey.com/showthread.php?t=775817#post-7) <!--t:775817-->
+  - 2008-04-30 [comment 11](https://ubuntuforums.popey.com/showthread.php?t=775817#post-11) <!--t:775817-->
+- 2008-05-07 whats the command to get nvidia tools — New to Ubuntu <!--t:785942-->
+  - 2008-05-07 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=785942#post-3) <!--t:785942-->
+- 2008-04-30 wow, large hard drive! — New to Ubuntu <!--t:776490-->
+  - 2008-04-30 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=776490#post-5) <!--t:776490-->
+- 2008-04-30 Playing around with Live CD, how do I connect to a wireless network?? — New to Ubuntu <!--t:775184-->
+  - 2008-04-30 [comment 6](https://ubuntuforums.popey.com/showthread.php?t=775184#post-6) <!--t:775184-->
+  - 2008-04-30 [comment 8](https://ubuntuforums.popey.com/showthread.php?t=775184#post-8) <!--t:775184-->
+  - 2008-04-30 [comment 10](https://ubuntuforums.popey.com/showthread.php?t=775184#post-10) <!--t:775184-->
+  - 2008-04-30 [comment 12](https://ubuntuforums.popey.com/showthread.php?t=775184#post-12) <!--t:775184-->
+  - 2008-04-30 [comment 13](https://ubuntuforums.popey.com/showthread.php?t=775184#post-13) <!--t:775184-->
+  - 2008-04-30 [comment 17](https://ubuntuforums.popey.com/showthread.php?t=775184#post-17) <!--t:775184-->
+  - 2008-04-30 [comment 19](https://ubuntuforums.popey.com/showthread.php?t=775184#post-19) <!--t:775184-->
+  - 2008-04-30 [comment 22](https://ubuntuforums.popey.com/showthread.php?t=775184#post-22) <!--t:775184-->
+  - 2008-04-30 [comment 23](https://ubuntuforums.popey.com/showthread.php?t=775184#post-23) <!--t:775184-->
+  - 2008-04-30 [comment 31](https://ubuntuforums.popey.com/showthread.php?t=775184#post-31) <!--t:775184-->
+- 2009-07-06 [How do I test my keyboard KEYS (Alt key)](https://ubuntuforums.popey.com/showthread.php?t=1205583#post-1) — Hardware <!--t:1205583-->
+  - 2009-07-06 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=1205583#post-3) <!--t:1205583-->
+- 2007-02-24 WineEZ ( a new wine gui) maybe... — Ubuntu Christian Edition <!--t:369671-->
+  - 2007-02-24 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=369671#post-3) <!--t:369671-->
+- 2008-04-15 openSuSE 10.3 review — openSUSE and SUSE Linux Enterprise <!--t:755628-->
+  - 2008-04-15 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=755628#post-2) <!--t:755628-->
+- 2009-09-20 Missing Features in Empathy — Karmic Koala Testing and Discussion (CLOSED) <!--t:1268948-->
+  - 2009-09-20 [comment 87](https://ubuntuforums.popey.com/showthread.php?t=1268948#post-87) <!--t:1268948-->
+- 2008-05-27 firewall restrictions by application?? — Security <!--t:801479-->
+  - 2008-05-27 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=801479#post-5) <!--t:801479-->
+- 2006-12-05 Architecture design? — Art &amp; Design <!--t:312340-->
+  - 2006-12-05 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=312340#post-2) <!--t:312340-->
+- 2008-03-05 [A possible window bar idea](https://ubuntuforums.popey.com/showthread.php?t=715613#post-1) — Art &amp; Design <!--t:715613-->
+  - 2008-03-05 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=715613#post-3) <!--t:715613-->
+- 2008-11-15 Will 64bit allow me to run everything I'm running in 32bit? — x86 64-bit Users <!--t:972393-->
+  - 2008-11-15 [comment 16](https://ubuntuforums.popey.com/showthread.php?t=972393#post-16) <!--t:972393-->
+- 2008-10-13 Best C/C++ Environment — Recurring Discussions <!--t:910771-->
+  - 2008-10-13 [comment 48](https://ubuntuforums.popey.com/showthread.php?t=910771#post-48) <!--t:910771-->
+- 2008-06-09 Does the linux file structure work? — Recurring Discussions <!--t:823419-->
+  - 2008-06-09 [comment 15](https://ubuntuforums.popey.com/showthread.php?t=823419#post-15) <!--t:823419-->
+- 2008-04-02 Windows 7 vs Ubuntu 11.10 — Recurring Discussions <!--t:742402-->
+  - 2008-04-02 [comment 50](https://ubuntuforums.popey.com/showthread.php?t=742402#post-50) <!--t:742402-->
+- 2008-09-30 Wallpaper and theme complaint megathread — Recurring Discussions <!--t:934368-->
+  - 2008-09-30 [comment 117](https://ubuntuforums.popey.com/showthread.php?t=934368#post-117) <!--t:934368-->
+- 2008-10-14 What can Linux do that Mac OS X can't? — Recurring Discussions <!--t:947839-->
+  - 2008-10-14 [comment 12](https://ubuntuforums.popey.com/showthread.php?t=947839#post-12) <!--t:947839-->
+- 2007-12-25 Why do you choose Ubuntu over Windows — Recurring Discussions <!--t:643102-->
+  - 2007-12-25 [comment 2222](https://ubuntuforums.popey.com/showthread.php?t=643102#post-2222) <!--t:643102-->
+- 2008-10-14 What can Windows do that Linux can't? — Recurring Discussions <!--t:435866-->
+  - 2008-10-14 [comment 497](https://ubuntuforums.popey.com/showthread.php?t=435866#post-497) <!--t:435866-->
+- 2008-10-05 What is keeping Ubuntu from topping the list of operating systems? — Recurring Discussions <!--t:938463-->
+  - 2008-10-05 [comment 28](https://ubuntuforums.popey.com/showthread.php?t=938463#post-28) <!--t:938463-->
+  - 2008-10-05 [comment 29](https://ubuntuforums.popey.com/showthread.php?t=938463#post-29) <!--t:938463-->
+- 2008-09-26 Whats the best software media player? — Recurring Discussions <!--t:913120-->
+  - 2008-09-26 [comment 27](https://ubuntuforums.popey.com/showthread.php?t=913120#post-27) <!--t:913120-->
+  - 2008-09-26 [comment 28](https://ubuntuforums.popey.com/showthread.php?t=913120#post-28) <!--t:913120-->
+- 2008-02-16 What is your age and what do you use ubuntu for? — Recurring Discussions <!--t:686279-->
+  - 2008-02-16 [comment 75](https://ubuntuforums.popey.com/showthread.php?t=686279#post-75) <!--t:686279-->
+  - 2008-05-09 [comment 422](https://ubuntuforums.popey.com/showthread.php?t=686279#post-422) <!--t:686279-->
+- 2009-06-23 Ubuntu Philosophy and Multimedia codecs — Recurring Discussions <!--t:1194242-->
+  - 2009-06-23 [comment 26](https://ubuntuforums.popey.com/showthread.php?t=1194242#post-26) <!--t:1194242-->
+- 2009-04-24 On which release of Ubuntu did you get started? — Recurring Discussions <!--t:1133323-->
+  - 2009-04-24 [comment 51](https://ubuntuforums.popey.com/showthread.php?t=1133323#post-51) <!--t:1133323-->
+- 2008-05-29 The Opera Web Browser — Recurring Discussions <!--t:803146-->
+  - 2008-05-29 [comment 37](https://ubuntuforums.popey.com/showthread.php?t=803146#post-37) <!--t:803146-->
+- 2006-12-04 [Shipping outside the US](https://ubuntuforums.popey.com/showthread.php?t=312263#post-1) — System76 Support <!--t:312263-->
+- 2007-12-21 [MFC-665CW Printer and Cups Localhost Password](https://ubuntuforums.popey.com/showthread.php?t=646994#post-1) — Hardware &amp; Laptops <!--t:646994-->
+  - 2007-12-21 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=646994#post-2) <!--t:646994-->
+  - 2007-12-22 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=646994#post-3) <!--t:646994-->
+  - 2007-12-22 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=646994#post-4) <!--t:646994-->
+- 2006-03-31 HOWTO Setup Wine — Outdated Tutorials &amp; Tips <!--t:149585-->
+  - 2006-03-31 [comment 25](https://ubuntuforums.popey.com/showthread.php?t=149585#post-25) <!--t:149585-->
+- 2006-03-31 HOWTO: Install AVG free anti-virus — Outdated Tutorials &amp; Tips <!--t:136064-->
+  - 2006-03-31 [comment 82](https://ubuntuforums.popey.com/showthread.php?t=136064#post-82) <!--t:136064-->
+- 2008-01-24 [where has my sound gone?](https://ubuntuforums.popey.com/showthread.php?t=676622#post-1) — Multimedia &amp; Video <!--t:676622-->
+  - 2008-01-25 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=676622#post-2) <!--t:676622-->
+- 2008-02-13 Dell Wireless 355 Bluetooth for Inspiron 1420 — Dell  Ubuntu Support <!--t:600524-->
+  - 2008-02-13 [comment 8](https://ubuntuforums.popey.com/showthread.php?t=600524#post-8) <!--t:600524-->
+- 2008-09-30 Ubuntu and the economy in crisis — The Cafe <!--t:934002-->
+  - 2008-09-30 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=934002#post-4) <!--t:934002-->
+- 2008-09-14 8.10 possibly not to use firefox in next release? — The Cafe <!--t:919630-->
+  - 2008-09-14 [comment 74](https://ubuntuforums.popey.com/showthread.php?t=919630#post-74) <!--t:919630-->
+- 2008-08-13 Change Wallpapers, Mega Ultra GUI. — The Cafe <!--t:888746-->
+  - 2008-08-13 [comment 17](https://ubuntuforums.popey.com/showthread.php?t=888746#post-17) <!--t:888746-->
+- 2008-11-02 64 bit default — The Cafe <!--t:967611-->
+  - 2008-11-02 [comment 17](https://ubuntuforums.popey.com/showthread.php?t=967611#post-17) <!--t:967611-->
+- 2010-03-25 what is the Compose Key combination for \[ &#8776; \] ? — The Cafe <!--t:1438434-->
+  - 2010-03-25 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=1438434#post-4) <!--t:1438434-->
+- 2008-09-06 Project Looking Glass — The Cafe <!--t:911589-->
+  - 2008-09-06 [comment 9](https://ubuntuforums.popey.com/showthread.php?t=911589#post-9) <!--t:911589-->
+- 2009-07-29 Totally Non Linux- Linking two Kindles to make an &quot;ebook&quot;? — The Cafe <!--t:1226536-->
+  - 2009-07-29 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=1226536#post-3) <!--t:1226536-->
+- 2008-10-15 VirtualBox Seamless Windows — The Cafe <!--t:577897-->
+  - 2008-10-15 [comment 89](https://ubuntuforums.popey.com/showthread.php?t=577897#post-89) <!--t:577897-->
+- 2008-08-05 microsoft warns of open source threat — The Cafe <!--t:880499-->
+  - 2008-08-05 [comment 31](https://ubuntuforums.popey.com/showthread.php?t=880499#post-31) <!--t:880499-->
+- 2008-05-20 do you use closed-source software? — The Cafe <!--t:790129-->
+  - 2008-05-20 [comment 85](https://ubuntuforums.popey.com/showthread.php?t=790129#post-85) <!--t:790129-->
+  - 2008-05-22 [comment 103](https://ubuntuforums.popey.com/showthread.php?t=790129#post-103) <!--t:790129-->
+- 2008-04-15 ubuntu should get behind Gnash — The Cafe <!--t:755805-->
+  - 2008-04-15 [comment 59](https://ubuntuforums.popey.com/showthread.php?t=755805#post-59) <!--t:755805-->
+- 2007-11-30 What's your take on this quote? — The Cafe <!--t:627465-->
+  - 2007-11-30 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=627465#post-4) <!--t:627465-->
+- 2008-06-10 If Ubuntu Was Named After One Of Your Exes Could You Use It? — The Cafe <!--t:823166-->
+  - 2008-06-10 [comment 19](https://ubuntuforums.popey.com/showthread.php?t=823166#post-19) <!--t:823166-->
+- 2008-07-03 Vista computers don't like Ubuntu — The Cafe <!--t:847567-->
+  - 2008-07-03 [comment 10](https://ubuntuforums.popey.com/showthread.php?t=847567#post-10) <!--t:847567-->
+- 2008-10-29 [hard disk caddy for inspiron 1720](https://ubuntuforums.popey.com/showthread.php?t=963154#post-1) — The Cafe <!--t:963154-->
+  - 2008-10-29 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=963154#post-2) <!--t:963154-->
+  - 2008-10-30 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=963154#post-3) <!--t:963154-->
+- 2008-12-15 [What would Gnome be like if it was written/used QT?](https://ubuntuforums.popey.com/showthread.php?t=1012171#post-1) — The Cafe <!--t:1012171-->
+- 2008-12-12 [(DRM Analogy I made) Buying books and music.](https://ubuntuforums.popey.com/showthread.php?t=1009685#post-1) — The Cafe <!--t:1009685-->
+  - 2008-12-12 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=1009685#post-3) <!--t:1009685-->
+- 2009-04-24 Penut butter sandwhich: Jelly on top, or on the bottom? — The Cafe <!--t:1135649-->
+  - 2009-04-24 [comment 46](https://ubuntuforums.popey.com/showthread.php?t=1135649#post-46) <!--t:1135649-->
+- 2012-05-14 Is there a grass lawn fixation outside North America? — The Cafe <!--t:1979645-->
+  - 2012-05-14 [comment 29](https://ubuntuforums.popey.com/showthread.php?t=1979645#post-29) <!--t:1979645-->
+- 2010-03-18 Security of repositories — The Cafe <!--t:1433256-->
+  - 2010-03-18 [comment 8](https://ubuntuforums.popey.com/showthread.php?t=1433256#post-8) <!--t:1433256-->
+- 2008-01-23 High School Ubuntu Users? — The Cafe <!--t:520687-->
+  - 2008-01-23 [comment 114](https://ubuntuforums.popey.com/showthread.php?t=520687#post-114) <!--t:520687-->
+- 2008-10-22 Are you a pure vegetarian? — The Cafe <!--t:955425-->
+  - 2008-10-22 [comment 116](https://ubuntuforums.popey.com/showthread.php?t=955425#post-116) <!--t:955425-->
+- 2008-08-05 Web OS is not practical at present — The Cafe <!--t:881094-->
+  - 2008-08-05 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=881094#post-2) <!--t:881094-->
+- 2007-11-30 What is the best thing you ever did with windows? — The Cafe <!--t:627232-->
+  - 2007-11-30 [comment 27](https://ubuntuforums.popey.com/showthread.php?t=627232#post-27) <!--t:627232-->
+- 2008-08-01 Apple - tried and failed to - shut down El Tunes — The Cafe <!--t:874790-->
+  - 2008-08-01 [comment 42](https://ubuntuforums.popey.com/showthread.php?t=874790#post-42) <!--t:874790-->
+  - 2008-08-01 [comment 44](https://ubuntuforums.popey.com/showthread.php?t=874790#post-44) <!--t:874790-->
+  - 2008-08-01 [comment 47](https://ubuntuforums.popey.com/showthread.php?t=874790#post-47) <!--t:874790-->
+- 2008-08-15 What's # called? Pound? Hash? Number sign? — The Cafe <!--t:889804-->
+  - 2008-08-15 [comment 34](https://ubuntuforums.popey.com/showthread.php?t=889804#post-34) <!--t:889804-->
+- 2008-06-21 If Aero was available for Linux, would you use it? — The Cafe <!--t:834255-->
+  - 2008-06-21 [comment 76](https://ubuntuforums.popey.com/showthread.php?t=834255#post-76) <!--t:834255-->
+- 2008-05-01 funpidgin - pidgin fork! — The Cafe <!--t:763194-->
+  - 2008-05-01 [comment 98](https://ubuntuforums.popey.com/showthread.php?t=763194#post-98) <!--t:763194-->
+- 2009-05-28 ParcelForce discriminate against UK Linux users! — The Cafe <!--t:1044573-->
+  - 2009-05-28 [comment 76](https://ubuntuforums.popey.com/showthread.php?t=1044573#post-76) <!--t:1044573-->
+- 2006-09-06 Why don't most home PC's come with Linux pre-loaded? — The Cafe <!--t:200492-->
+  - 2006-09-06 [comment 32](https://ubuntuforums.popey.com/showthread.php?t=200492#post-32) <!--t:200492-->
+- 2008-08-05 Emulation: MAME, Amiga, SNES and others ? — The Cafe <!--t:302298-->
+  - 2008-08-05 [comment 65](https://ubuntuforums.popey.com/showthread.php?t=302298#post-65) <!--t:302298-->
+- 2009-08-03 Open-Source webmail provider? — The Cafe <!--t:1199814-->
+  - 2009-08-03 [comment 9](https://ubuntuforums.popey.com/showthread.php?t=1199814#post-9) <!--t:1199814-->
+- 2008-04-29 [Is there a Perfect VRMS score computer?](https://ubuntuforums.popey.com/showthread.php?t=773973#post-1) — The Cafe <!--t:773973-->
+- 2009-04-18 The source is open, but the mind is closed — The Cafe <!--t:1123406-->
+  - 2009-04-18 [comment 200](https://ubuntuforums.popey.com/showthread.php?t=1123406#post-200) <!--t:1123406-->
+- 2008-10-31 LaRoza: 1, Mouse 0 — The Cafe <!--t:963144-->
+  - 2008-10-31 [comment 80](https://ubuntuforums.popey.com/showthread.php?t=963144#post-80) <!--t:963144-->
+- 2008-10-19 The fate of optical drives — The Cafe <!--t:950032-->
+  - 2008-10-19 [comment 135](https://ubuntuforums.popey.com/showthread.php?t=950032#post-135) <!--t:950032-->
+- 2009-06-13 Community Editions We'd Like to See — The Cafe <!--t:1183100-->
+  - 2009-06-13 [comment 46](https://ubuntuforums.popey.com/showthread.php?t=1183100#post-46) <!--t:1183100-->
+- 2009-07-17 Empathy maybe replacing Pidgin — The Cafe <!--t:886852-->
+  - 2009-07-17 [comment 37](https://ubuntuforums.popey.com/showthread.php?t=886852#post-37) <!--t:886852-->
+- 2009-08-06 Ultimate power. — The Cafe <!--t:1231922-->
+  - 2009-08-06 [comment 28](https://ubuntuforums.popey.com/showthread.php?t=1231922#post-28) <!--t:1231922-->
+- 2008-09-30 hotmail: &quot;Upgrade your web browser&quot; — The Cafe <!--t:934431-->
+  - 2008-09-30 [comment 14](https://ubuntuforums.popey.com/showthread.php?t=934431#post-14) <!--t:934431-->
+- 2008-08-05 What is your favorite Web Developing Tool? — The Cafe <!--t:644163-->
+  - 2008-08-05 [comment 29](https://ubuntuforums.popey.com/showthread.php?t=644163#post-29) <!--t:644163-->
+- 2007-05-04 [I'm bringing sexy back!](https://ubuntuforums.popey.com/showthread.php?t=432707#post-1) — The Cafe <!--t:432707-->
+- 2009-07-29 How does Canonical support ubuntu? — The Cafe <!--t:1226542-->
+  - 2009-07-29 [comment 7](https://ubuntuforums.popey.com/showthread.php?t=1226542#post-7) <!--t:1226542-->
+- 2008-06-14 Voice/Cam Coming to Pidgin — The Cafe <!--t:828451-->
+  - 2008-06-14 [comment 10](https://ubuntuforums.popey.com/showthread.php?t=828451#post-10) <!--t:828451-->
+- 2008-05-20 &quot;Acute Linux Distro Multiplicity Addiction Syndrome&quot; — The Cafe <!--t:547313-->
+  - 2008-05-20 [comment 48](https://ubuntuforums.popey.com/showthread.php?t=547313#post-48) <!--t:547313-->
+- 2008-05-02 I saw Richard Stallman lecture last night! — The Cafe <!--t:778485-->
+  - 2008-05-02 [comment 7](https://ubuntuforums.popey.com/showthread.php?t=778485#post-7) <!--t:778485-->
+- 2008-05-02 Need Laptop Purchasing Advice — The Cafe <!--t:777677-->
+  - 2008-05-02 [comment 27](https://ubuntuforums.popey.com/showthread.php?t=777677#post-27) <!--t:777677-->
+- 2009-08-07 Mxit in Pidgin — The Cafe <!--t:1233709-->
+  - 2009-08-07 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=1233709#post-2) <!--t:1233709-->
+- 2008-09-21 How to discharge a Li-Ion Battery — The Cafe <!--t:926238-->
+  - 2008-09-21 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=926238#post-4) <!--t:926238-->
+- 2008-09-22 You know you use linux too much when... — The Cafe <!--t:926508-->
+  - 2008-09-22 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=926508#post-4) <!--t:926508-->
+- 2008-10-14 ext4dev is now ext4 — The Cafe <!--t:947868-->
+  - 2008-10-14 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=947868#post-5) <!--t:947868-->
+- 2008-04-15 this sucks — The Cafe <!--t:755551-->
+  - 2008-04-15 [comment 17](https://ubuntuforums.popey.com/showthread.php?t=755551#post-17) <!--t:755551-->
+- 2008-08-09 Dell comercial featuring Ubuntu? — The Cafe <!--t:885143-->
+  - 2008-08-09 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=885143#post-2) <!--t:885143-->
+  - 2008-08-09 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=885143#post-4) <!--t:885143-->
+- 2009-07-21 Which logo is the best? — The Cafe <!--t:1219297-->
+  - 2009-07-21 [comment 23](https://ubuntuforums.popey.com/showthread.php?t=1219297#post-23) <!--t:1219297-->
+- 2008-10-13 Dreamweaver for Linux — The Cafe <!--t:946645-->
+  - 2008-10-13 [comment 13](https://ubuntuforums.popey.com/showthread.php?t=946645#post-13) <!--t:946645-->
+- 2007-06-17 [What happened to Linux Counter (counter.li.org)](https://ubuntuforums.popey.com/showthread.php?t=476314#post-1) — The Cafe <!--t:476314-->
+- 2008-08-05 When will Ubuntu Surface come? — The Cafe <!--t:880523-->
+  - 2008-08-05 [comment 13](https://ubuntuforums.popey.com/showthread.php?t=880523#post-13) <!--t:880523-->
+- 2008-02-13 My husband and I want to go back to windows — The Cafe <!--t:695359-->
+  - 2008-02-13 [comment 10](https://ubuntuforums.popey.com/showthread.php?t=695359#post-10) <!--t:695359-->
+- 2008-07-31 [Did your last Ubuntu install fail?](https://ubuntuforums.popey.com/showthread.php?t=876604#post-1) — The Cafe <!--t:876604-->
+  - 2008-07-31 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=876604#post-4) <!--t:876604-->
+- 2008-05-10 What is your uptime — The Cafe <!--t:558401-->
+  - 2008-05-10 [comment 133](https://ubuntuforums.popey.com/showthread.php?t=558401#post-133) <!--t:558401-->
+- 2007-11-30 Noticed a commonality between Ubuntu &amp; Windows XP — The Cafe <!--t:627470-->
+  - 2007-11-30 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=627470#post-2) <!--t:627470-->
+- 2008-07-28 Openjava removed from ubuntu-restricted-extras? — The Cafe <!--t:873197-->
+  - 2008-07-28 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=873197#post-2) <!--t:873197-->
+- 2009-07-21 Launchpad Source Code Released — The Cafe <!--t:1218742-->
+  - 2009-07-21 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=1218742#post-4) <!--t:1218742-->
+- 2009-04-24 Attach your boot-chart! — The Cafe <!--t:531453-->
+  - 2009-04-24 [comment 440](https://ubuntuforums.popey.com/showthread.php?t=531453#post-440) <!--t:531453-->
+- 2008-05-09 Podzilla/iPod Linux curious — The Cafe <!--t:786900-->
+  - 2008-05-09 [comment 6](https://ubuntuforums.popey.com/showthread.php?t=786900#post-6) <!--t:786900-->
+- 2010-03-18 Favourite 80's kids' movie? — The Cafe <!--t:1431335-->
+  - 2010-03-18 [comment 36](https://ubuntuforums.popey.com/showthread.php?t=1431335#post-36) <!--t:1431335-->
+- 2008-05-20 Best video game ever made — The Cafe <!--t:776393-->
+  - 2008-05-20 [comment 108](https://ubuntuforums.popey.com/showthread.php?t=776393#post-108) <!--t:776393-->
+- 2008-06-04 How do you manage your iPod? — The Cafe <!--t:790686-->
+  - 2008-06-04 [comment 25](https://ubuntuforums.popey.com/showthread.php?t=790686#post-25) <!--t:790686-->
+- 2010-03-31 600 Firefox tabs open at one time! — The Cafe <!--t:1444059-->
+  - 2010-03-31 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=1444059#post-5) <!--t:1444059-->
+- 2008-07-26 Ubuntu 8.04 on Dell Computers - The offering! — The Cafe <!--t:870815-->
+  - 2008-07-26 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=870815#post-2) <!--t:870815-->
+- 2007-06-18 Ubuntu doesn't negotiate with terrorists... — The Cafe <!--t:476141-->
+  - 2007-06-18 [comment 10](https://ubuntuforums.popey.com/showthread.php?t=476141#post-10) <!--t:476141-->
+- 2007-07-01 [How do I make Ubuntu look like vista?](https://ubuntuforums.popey.com/showthread.php?t=489195#post-1) — The Cafe <!--t:489195-->
+  - 2007-07-01 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=489195#post-3) <!--t:489195-->
+  - 2007-07-01 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=489195#post-4) <!--t:489195-->
+  - 2007-07-01 [comment 7](https://ubuntuforums.popey.com/showthread.php?t=489195#post-7) <!--t:489195-->
+  - 2007-07-01 [comment 10](https://ubuntuforums.popey.com/showthread.php?t=489195#post-10) <!--t:489195-->
+- 2008-09-26 Replace Ekiga with Skype? — The Cafe <!--t:930518-->
+  - 2008-09-26 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=930518#post-4) <!--t:930518-->
+- 2007-06-18 [Showing off my far from finished...](https://ubuntuforums.popey.com/showthread.php?t=477213#post-1) — The Cafe <!--t:477213-->
+  - 2007-07-01 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=477213#post-3) <!--t:477213-->
+- 2008-05-09 How old are you? — The Cafe <!--t:787350-->
+  - 2008-05-09 [comment 21](https://ubuntuforums.popey.com/showthread.php?t=787350#post-21) <!--t:787350-->
+- 2008-08-10 emesene instead of pidgin? — The Cafe <!--t:886119-->
+  - 2008-08-10 [comment 8](https://ubuntuforums.popey.com/showthread.php?t=886119#post-8) <!--t:886119-->
+- 2008-05-25 How much programs do you have in your notification area/taskbar tray — The Cafe <!--t:807295-->
+  - 2008-05-25 [comment 8](https://ubuntuforums.popey.com/showthread.php?t=807295#post-8) <!--t:807295-->
+- 2009-09-02 What Non tech Thing Did You Do Today? — The Cafe <!--t:1253376-->
+  - 2009-09-02 [comment 112](https://ubuntuforums.popey.com/showthread.php?t=1253376#post-112) <!--t:1253376-->
+- 2009-04-24 Are you using Ext4? — The Cafe <!--t:1134248-->
+  - 2009-04-24 [comment 32](https://ubuntuforums.popey.com/showthread.php?t=1134248#post-32) <!--t:1134248-->
+- 2008-09-15 What in the.. — The Cafe <!--t:920840-->
+  - 2008-09-15 [comment 12](https://ubuntuforums.popey.com/showthread.php?t=920840#post-12) <!--t:920840-->
+- 2008-08-05 Ubuntu Free Culture Showcase — The Cafe <!--t:881066-->
+  - 2008-08-05 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=881066#post-3) <!--t:881066-->
+- 2008-08-12 Help me become &quot;Free&quot; — The Cafe <!--t:887305-->
+  - 2008-08-12 [comment 11](https://ubuntuforums.popey.com/showthread.php?t=887305#post-11) <!--t:887305-->
+- 2008-06-14 New Opera 9.5 skin, do you like it? — The Cafe <!--t:828672-->
+  - 2008-06-14 [comment 9](https://ubuntuforums.popey.com/showthread.php?t=828672#post-9) <!--t:828672-->
+- 2008-09-30 My favourite feature.. — The Cafe <!--t:933175-->
+  - 2008-09-30 [comment 8](https://ubuntuforums.popey.com/showthread.php?t=933175#post-8) <!--t:933175-->
+- 2008-04-15 Can someone track this image (Linux Grafiti) — The Cafe <!--t:756357-->
+  - 2008-04-15 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=756357#post-3) <!--t:756357-->
+- 2008-05-27 ubuntu wlan adhoc network with Nokia N800 — The Cafe <!--t:809129-->
+  - 2008-05-27 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=809129#post-2) <!--t:809129-->
+- 2008-08-25 Drag windows from anywhere: Interest? — The Cafe <!--t:900127-->
+  - 2008-08-25 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=900127#post-3) <!--t:900127-->
+  - 2008-08-25 [comment 6](https://ubuntuforums.popey.com/showthread.php?t=900127#post-6) <!--t:900127-->
+- 2007-10-27 gutsy, not gusty — The Cafe <!--t:589295-->
+  - 2007-10-27 [comment 13](https://ubuntuforums.popey.com/showthread.php?t=589295#post-13) <!--t:589295-->
+- 2010-05-11 assuming omploader.org is dead... — The Cafe <!--t:1479190-->
+  - 2010-05-11 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=1479190#post-4) <!--t:1479190-->
+- 2008-08-05 Should Windows go Open Source — The Cafe <!--t:880819-->
+  - 2008-08-05 [comment 24](https://ubuntuforums.popey.com/showthread.php?t=880819#post-24) <!--t:880819-->
+- 2009-07-23 december 21 2012 -  end of the world — The Cafe <!--t:1220573-->
+  - 2009-07-23 [comment 48](https://ubuntuforums.popey.com/showthread.php?t=1220573#post-48) <!--t:1220573-->
+- 2008-08-05 WOW! Nautilus and camera memory cards — The Cafe <!--t:880903-->
+  - 2008-08-05 [comment 10](https://ubuntuforums.popey.com/showthread.php?t=880903#post-10) <!--t:880903-->
+- 2008-09-28 About instant messengers — The Cafe <!--t:932429-->
+  - 2008-09-28 [comment 20](https://ubuntuforums.popey.com/showthread.php?t=932429#post-20) <!--t:932429-->
+- 2006-09-06 How many HD DVD/BD owners here?  Linux on PS3 possibilities? — The Cafe <!--t:205304-->
+  - 2006-09-06 [comment 7](https://ubuntuforums.popey.com/showthread.php?t=205304#post-7) <!--t:205304-->
+- 2008-10-21 People using Linux for...bad things — The Cafe <!--t:950619-->
+  - 2008-10-21 [comment 90](https://ubuntuforums.popey.com/showthread.php?t=950619#post-90) <!--t:950619-->
+- 2008-07-27 Ubuntu 8.10 Alpha 3 Screenshot Tour — The Cafe <!--t:870510-->
+  - 2008-07-27 [comment 53](https://ubuntuforums.popey.com/showthread.php?t=870510#post-53) <!--t:870510-->
+- 2007-02-24 Do you still use Windows at all? — The Cafe <!--t:247871-->
+  - 2007-02-24 [comment 73](https://ubuntuforums.popey.com/showthread.php?t=247871#post-73) <!--t:247871-->
+- 2008-04-19 Reminder why I went to Linux — The Cafe <!--t:760148-->
+  - 2008-04-19 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=760148#post-3) <!--t:760148-->
+- 2008-08-19 What is the relationship between M$ Windows and Ubuntu? — The Cafe <!--t:842050-->
+  - 2008-08-19 [comment 31](https://ubuntuforums.popey.com/showthread.php?t=842050#post-31) <!--t:842050-->
+- 2008-05-01 Intrepid Repos are open! — The Cafe <!--t:776949-->
+  - 2008-05-01 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=776949#post-4) <!--t:776949-->
+- 2008-11-21 Microsoft's Silverlight — The Cafe <!--t:410858-->
+  - 2008-11-21 [comment 122](https://ubuntuforums.popey.com/showthread.php?t=410858#post-122) <!--t:410858-->
+- 2008-08-04 Haha. Ok, M$. That's just ridiculous. — The Cafe <!--t:879505-->
+  - 2008-08-04 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=879505#post-3) <!--t:879505-->
+- 2008-06-17 So what now? — The Cafe <!--t:825099-->
+  - 2008-06-17 [comment 17](https://ubuntuforums.popey.com/showthread.php?t=825099#post-17) <!--t:825099-->
+- 2008-05-01 No Dell Ubuntu for Australia — The Cafe <!--t:776828-->
+  - 2008-05-01 [comment 8](https://ubuntuforums.popey.com/showthread.php?t=776828#post-8) <!--t:776828-->
+- 2008-05-09 My Mockup for Intrepid Ibex — The Cafe <!--t:784692-->
+  - 2008-05-09 [comment 71](https://ubuntuforums.popey.com/showthread.php?t=784692#post-71) <!--t:784692-->
+- 2008-11-18 If you use gnome, do you like using QT apps? — The Cafe <!--t:984942-->
+  - 2008-11-18 [comment 39](https://ubuntuforums.popey.com/showthread.php?t=984942#post-39) <!--t:984942-->
+- 2009-07-24 Why does Coca-Cola taste so different around the world? — The Cafe <!--t:1221255-->
+  - 2009-07-24 [comment 40](https://ubuntuforums.popey.com/showthread.php?t=1221255#post-40) <!--t:1221255-->
+- 2009-07-24 Linux Penguin on Cereal Box — The Cafe <!--t:1221355-->
+  - 2009-07-24 [comment 26](https://ubuntuforums.popey.com/showthread.php?t=1221355#post-26) <!--t:1221355-->
+- 2008-09-28 The name Ubuntu? (outsider perspective) — The Cafe <!--t:928911-->
+  - 2008-09-28 [comment 61](https://ubuntuforums.popey.com/showthread.php?t=928911#post-61) <!--t:928911-->
+- 2008-08-24 Web Design Language/Tools ? — The Cafe <!--t:898894-->
+  - 2008-08-24 [comment 14](https://ubuntuforums.popey.com/showthread.php?t=898894#post-14) <!--t:898894-->
+- 2008-10-20 Would you use Linux if there was no GUI? — The Cafe <!--t:494857-->
+  - 2008-10-20 [comment 85](https://ubuntuforums.popey.com/showthread.php?t=494857#post-85) <!--t:494857-->
+- 2008-04-07 Mac immune to anti-trust laws? — The Cafe <!--t:746810-->
+  - 2008-04-07 [comment 24](https://ubuntuforums.popey.com/showthread.php?t=746810#post-24) <!--t:746810-->
+- 2008-06-14 Does Linux have a &quot;killer app&quot;? — The Cafe <!--t:815247-->
+  - 2008-06-14 [comment 67](https://ubuntuforums.popey.com/showthread.php?t=815247#post-67) <!--t:815247-->
+- 2007-12-04 [Has any linux n00b asked where C:\\ and stuff are?](https://ubuntuforums.popey.com/showthread.php?t=631655#post-1) — The Cafe <!--t:631655-->
+- 2009-04-24 MS Surface plagued with usablity issues. — The Cafe <!--t:1135909-->
+  - 2009-04-24 [comment 11](https://ubuntuforums.popey.com/showthread.php?t=1135909#post-11) <!--t:1135909-->
+- 2008-11-15 \[SOLVED\] Help! How to know if someone's opened my door? — The Cafe <!--t:983168-->
+  - 2008-11-15 [comment 36](https://ubuntuforums.popey.com/showthread.php?t=983168#post-36) <!--t:983168-->
+- 2008-08-12 Website: Java text or Flash text? — The Cafe <!--t:887319-->
+  - 2008-08-12 [comment 6](https://ubuntuforums.popey.com/showthread.php?t=887319#post-6) <!--t:887319-->
+- 2008-11-01 OH NOES!!! Microsoft is invading my life!!!!!!!!!!! — The Cafe <!--t:967242-->
+  - 2008-11-01 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=967242#post-4) <!--t:967242-->
+  - 2008-11-01 [comment 10](https://ubuntuforums.popey.com/showthread.php?t=967242#post-10) <!--t:967242-->
+  - 2008-11-01 [comment 13](https://ubuntuforums.popey.com/showthread.php?t=967242#post-13) <!--t:967242-->
+  - 2008-11-01 [comment 17](https://ubuntuforums.popey.com/showthread.php?t=967242#post-17) <!--t:967242-->
+  - 2008-11-01 [comment 23](https://ubuntuforums.popey.com/showthread.php?t=967242#post-23) <!--t:967242-->
+  - 2008-11-01 [comment 28](https://ubuntuforums.popey.com/showthread.php?t=967242#post-28) <!--t:967242-->
+  - 2008-11-01 [comment 35](https://ubuntuforums.popey.com/showthread.php?t=967242#post-35) <!--t:967242-->
+- 2010-03-18 This takes navigating the web to a whole new level — The Cafe <!--t:1433150-->
+  - 2010-03-18 [comment 11](https://ubuntuforums.popey.com/showthread.php?t=1433150#post-11) <!--t:1433150-->
+- 2008-08-06 Do you use Caps Lock? — The Cafe <!--t:882137-->
+  - 2008-08-06 [comment 22](https://ubuntuforums.popey.com/showthread.php?t=882137#post-22) <!--t:882137-->
+- 2008-10-06 Do you have an iPhone? — The Cafe <!--t:688450-->
+  - 2008-10-06 [comment 23](https://ubuntuforums.popey.com/showthread.php?t=688450#post-23) <!--t:688450-->
+- 2008-06-21 What stupid things have you done on linux? — The Cafe <!--t:836017-->
+  - 2008-06-21 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=836017#post-4) <!--t:836017-->
+- 2008-09-30 what should ubuntu have to make it perfect — The Cafe <!--t:934216-->
+  - 2008-09-30 [comment 15](https://ubuntuforums.popey.com/showthread.php?t=934216#post-15) <!--t:934216-->
+- 2008-11-13 If you'd go to war, and you could choose ANY weapon, which one would you take? — The Cafe <!--t:979667-->
+  - 2008-11-13 [comment 124](https://ubuntuforums.popey.com/showthread.php?t=979667#post-124) <!--t:979667-->
+- 2008-05-27 What web browser do you use? — The Cafe <!--t:804791-->
+  - 2008-05-27 [comment 105](https://ubuntuforums.popey.com/showthread.php?t=804791#post-105) <!--t:804791-->
+- 2008-05-07 Evince vs Adobe Reader — The Cafe <!--t:784343-->
+  - 2008-05-07 [comment 21](https://ubuntuforums.popey.com/showthread.php?t=784343#post-21) <!--t:784343-->
+- 2008-05-01 \[SOLVED\] If you had to pay for Ubuntu... — The Cafe <!--t:776763-->
+  - 2008-05-01 [comment 31](https://ubuntuforums.popey.com/showthread.php?t=776763#post-31) <!--t:776763-->
+- 2008-12-14 Should NoScript be in *buntu by default? — The Cafe <!--t:1010478-->
+  - 2008-12-14 [comment 43](https://ubuntuforums.popey.com/showthread.php?t=1010478#post-43) <!--t:1010478-->
+- 2008-02-13 [Which external HDD should I get?](https://ubuntuforums.popey.com/showthread.php?t=695427#post-1) — The Cafe <!--t:695427-->
+  - 2008-02-13 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=695427#post-3) <!--t:695427-->
+- 2008-10-14 What is your favorite OS color scheme? — The Cafe <!--t:943341-->
+  - 2008-10-14 [comment 26](https://ubuntuforums.popey.com/showthread.php?t=943341#post-26) <!--t:943341-->
+- 2008-04-07 Why do new users have trouble retyping commands as they see them? — The Cafe <!--t:748529-->
+  - 2008-04-07 [comment 34](https://ubuntuforums.popey.com/showthread.php?t=748529#post-34) <!--t:748529-->
+- 2009-06-20 Microsoft forbids changes to Windows 7 netbook wallpaper — The Cafe <!--t:1192722-->
+  - 2009-06-20 [comment 22](https://ubuntuforums.popey.com/showthread.php?t=1192722#post-22) <!--t:1192722-->
+- 2009-04-18 8th Grade PHP Programming Class — The Cafe <!--t:1129073-->
+  - 2009-04-18 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=1129073#post-4) <!--t:1129073-->
+  - 2009-04-18 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=1129073#post-5) <!--t:1129073-->
+  - 2009-04-18 [comment 6](https://ubuntuforums.popey.com/showthread.php?t=1129073#post-6) <!--t:1129073-->
+  - 2009-04-18 [comment 8](https://ubuntuforums.popey.com/showthread.php?t=1129073#post-8) <!--t:1129073-->
+  - 2009-04-18 [comment 13](https://ubuntuforums.popey.com/showthread.php?t=1129073#post-13) <!--t:1129073-->
+- 2008-06-23 Real Player 11 for Linux — The Cafe <!--t:837943-->
+  - 2008-06-23 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=837943#post-3) <!--t:837943-->
+- 2008-06-05 Has Hardy become more stable since it was realeased in April? — The Cafe <!--t:818995-->
+  - 2008-06-05 [comment 15](https://ubuntuforums.popey.com/showthread.php?t=818995#post-15) <!--t:818995-->
+- 2008-05-29 Computer Usage In Movies... &quot;NO-NO-NO!! ALL WRONG!!&quot; — The Cafe <!--t:811209-->
+  - 2008-05-29 [comment 39](https://ubuntuforums.popey.com/showthread.php?t=811209#post-39) <!--t:811209-->
+  - 2008-05-29 [comment 41](https://ubuntuforums.popey.com/showthread.php?t=811209#post-41) <!--t:811209-->
+- 2008-11-22 Google Chrome to be pre-installed on PCs in 2009? — The Cafe <!--t:989455-->
+  - 2008-11-22 [comment 26](https://ubuntuforums.popey.com/showthread.php?t=989455#post-26) <!--t:989455-->
+- 2008-09-26 Do you use Ekiga? — The Cafe <!--t:834407-->
+  - 2008-09-26 [comment 65](https://ubuntuforums.popey.com/showthread.php?t=834407#post-65) <!--t:834407-->
+- 2008-08-07 help with bash scripting — The Cafe <!--t:882552-->
+  - 2008-08-07 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=882552#post-2) <!--t:882552-->
+- 2009-03-27 [is it possible to hide the desktop icons in compiz expo?](https://ubuntuforums.popey.com/showthread.php?t=1107629#post-1) — The Cafe <!--t:1107629-->
+  - 2009-03-27 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=1107629#post-3) <!--t:1107629-->
+- 2008-09-15 Just got an iPhone — The Cafe <!--t:920119-->
+  - 2008-09-15 [comment 15](https://ubuntuforums.popey.com/showthread.php?t=920119#post-15) <!--t:920119-->
+- 2008-02-29 Ubuntu Addon Service? — The Cafe <!--t:710842-->
+  - 2008-02-29 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=710842#post-5) <!--t:710842-->
+- 2008-01-12 Sir Edmund Hillary died... — The Cafe <!--t:665213-->
+  - 2008-01-12 [comment 6](https://ubuntuforums.popey.com/showthread.php?t=665213#post-6) <!--t:665213-->
+- 2008-04-15 Symphony OS seems sketchy.. — Other OS Talk <!--t:755699-->
+  - 2008-04-15 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=755699#post-2) <!--t:755699-->
+  - 2008-04-15 [comment 6](https://ubuntuforums.popey.com/showthread.php?t=755699#post-6) <!--t:755699-->
+- 2008-02-11 [Ram frequencies](https://ubuntuforums.popey.com/showthread.php?t=693385#post-1) — Absolute Beginner Talk <!--t:693385-->
+  - 2008-02-11 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=693385#post-5) <!--t:693385-->
+- 2008-04-17 Ubuntu Freezes (occasionally) — Absolute Beginner Talk <!--t:758292-->
+  - 2008-04-17 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=758292#post-2) <!--t:758292-->
+- 2008-04-15 Do i need windows? — Absolute Beginner Talk <!--t:755648-->
+  - 2008-04-15 [comment 12](https://ubuntuforums.popey.com/showthread.php?t=755648#post-12) <!--t:755648-->
+- 2008-04-15 \[SOLVED\] Live CD Login Problem — Absolute Beginner Talk <!--t:755696-->
+  - 2008-04-15 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=755696#post-2) <!--t:755696-->
+  - 2008-04-15 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=755696#post-4) <!--t:755696-->
+- 2007-12-05 I think i chown something now i can't update ubuntu! — Absolute Beginner Talk <!--t:632110-->
+  - 2007-12-05 [comment 17](https://ubuntuforums.popey.com/showthread.php?t=632110#post-17) <!--t:632110-->
+  - 2007-12-05 [comment 21](https://ubuntuforums.popey.com/showthread.php?t=632110#post-21) <!--t:632110-->
+- 2008-04-15 Long pause at shut down/restart — Absolute Beginner Talk <!--t:755687-->
+  - 2008-04-15 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=755687#post-2) <!--t:755687-->
+- 2007-12-03 i gottah leave ubuntu D:!!! — Absolute Beginner Talk <!--t:630790-->
+  - 2007-12-03 [comment 58](https://ubuntuforums.popey.com/showthread.php?t=630790#post-58) <!--t:630790-->
+- 2008-04-19 no os loads need help ASAP! — Absolute Beginner Talk <!--t:760124-->
+  - 2008-04-19 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=760124#post-2) <!--t:760124-->
+  - 2008-04-19 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=760124#post-4) <!--t:760124-->
+  - 2008-04-19 [comment 6](https://ubuntuforums.popey.com/showthread.php?t=760124#post-6) <!--t:760124-->
+  - 2008-04-19 [comment 8](https://ubuntuforums.popey.com/showthread.php?t=760124#post-8) <!--t:760124-->
+- 2008-04-03 Antivirus? Firewall? — Absolute Beginner Talk <!--t:744688-->
+  - 2008-04-03 [comment 20](https://ubuntuforums.popey.com/showthread.php?t=744688#post-20) <!--t:744688-->
+- 2008-04-15 how to find out lost password ? — Absolute Beginner Talk <!--t:755725-->
+  - 2008-04-15 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=755725#post-3) <!--t:755725-->
+- 2008-01-22 Nokia N72 - need to be able to pull out photos, put in sounds etc. in Linux — Absolute Beginner Talk <!--t:665279-->
+  - 2008-01-22 [comment 8](https://ubuntuforums.popey.com/showthread.php?t=665279#post-8) <!--t:665279-->
+- 2008-04-15 \[SOLVED\] Can Windows recognise .ogg music files? — Absolute Beginner Talk <!--t:755735-->
+  - 2008-04-15 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=755735#post-3) <!--t:755735-->
+- 2008-04-17 Brightness problem — Absolute Beginner Talk <!--t:758229-->
+  - 2008-04-17 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=758229#post-2) <!--t:758229-->
+- 2007-12-05 \[SOLVED\] How to access python files in Ubuntu — Absolute Beginner Talk <!--t:631789-->
+  - 2007-12-05 [comment 6](https://ubuntuforums.popey.com/showthread.php?t=631789#post-6) <!--t:631789-->
+- 2008-04-17 SetUp Printer — Absolute Beginner Talk <!--t:757666-->
+  - 2008-04-17 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=757666#post-3) <!--t:757666-->
+- 2008-04-19 Another Question On Ati cards — Absolute Beginner Talk <!--t:760165-->
+  - 2008-04-19 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=760165#post-3) <!--t:760165-->
+  - 2008-04-19 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=760165#post-5) <!--t:760165-->
+- 2008-04-19 help: copying files to ipod nano 3G — Absolute Beginner Talk <!--t:760188-->
+  - 2008-04-19 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=760188#post-2) <!--t:760188-->
+- 2008-04-15 Partial update error — Absolute Beginner Talk <!--t:755737-->
+  - 2008-04-15 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=755737#post-2) <!--t:755737-->
+- 2006-06-17 Graphics Driver Problems... — Absolute Beginner Talk <!--t:198840-->
+  - 2006-06-17 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=198840#post-2) <!--t:198840-->
+- 2006-03-28 [Grub error](https://ubuntuforums.popey.com/showthread.php?t=151530#post-1) — Absolute Beginner Talk <!--t:151530-->
+- 2008-09-13 Opening up a Dell Inspiron 1300 — Dell Ubuntu Support (CLOSED) <!--t:907764-->
+  - 2008-09-13 [comment 7](https://ubuntuforums.popey.com/showthread.php?t=907764#post-7) <!--t:907764-->
+- 2008-10-14 \[SOLVED\] Nvidia-settings upgrade — Intrepid Ibex Testing and Discussion (CLOSED) <!--t:946988-->
+  - 2008-10-14 [comment 7](https://ubuntuforums.popey.com/showthread.php?t=946988#post-7) <!--t:946988-->
+- 2007-12-25 [how do i get 3d chess working?](https://ubuntuforums.popey.com/showthread.php?t=650148#post-1) — Gaming &amp; Leisure <!--t:650148-->
+- 2008-11-22 [Volume buttons don't control volume anymore](https://ubuntuforums.popey.com/showthread.php?t=990648#post-1) — Multimedia Software <!--t:990648-->
+  - 2008-11-23 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=990648#post-3) <!--t:990648-->
+  - 2008-12-12 [comment 8](https://ubuntuforums.popey.com/showthread.php?t=990648#post-8) <!--t:990648-->
+- 2008-10-18 When are we going to have full disc encryption on the livecd? — Ubuntu Brainstorm <!--t:951094-->
+  - 2008-10-18 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=951094#post-3) <!--t:951094-->
+- 2007-10-26 [Easier method of installing a LAMP server for desktop ubuntu](https://ubuntuforums.popey.com/showthread.php?t=593205#post-1) — Ubuntu Brainstorm <!--t:593205-->
+  - 2007-10-27 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=593205#post-4) <!--t:593205-->
+  - 2007-10-27 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=593205#post-5) <!--t:593205-->
+- 2007-10-26 AWN, AWN Core and AWN Extras in the repos — Ubuntu Brainstorm <!--t:583054-->
+  - 2007-10-26 [comment 16](https://ubuntuforums.popey.com/showthread.php?t=583054#post-16) <!--t:583054-->
+- 2008-04-17 Apple: Cheer them or boo them? — Mac OSX <!--t:757310-->
+  - 2008-04-17 [comment 18](https://ubuntuforums.popey.com/showthread.php?t=757310#post-18) <!--t:757310-->
+- 2007-11-16 Brother MFC-665CW Printer — Networking &amp; Wireless <!--t:301112-->
+  - 2007-11-16 [comment 7](https://ubuntuforums.popey.com/showthread.php?t=301112#post-7) <!--t:301112-->
+  - 2007-12-25 [comment 9](https://ubuntuforums.popey.com/showthread.php?t=301112#post-9) <!--t:301112-->
+- 2007-01-21 [Wireless PCI card -- detected but no internet](https://ubuntuforums.popey.com/showthread.php?t=343170#post-1) — Networking &amp; Wireless <!--t:343170-->
+- 2007-10-18 [wireless isn't working with ndis](https://ubuntuforums.popey.com/showthread.php?t=579136#post-1) — Networking &amp; Wireless <!--t:579136-->
+- 2007-10-02 [How do I get Perl working as a CGI on my localhost?](https://ubuntuforums.popey.com/showthread.php?t=565996#post-1) — Networking &amp; Wireless <!--t:565996-->
+  - 2007-10-02 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=565996#post-3) <!--t:565996-->
+  - 2007-10-03 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=565996#post-5) <!--t:565996-->
+- 2007-03-17 [https:// doesn't accept php](https://ubuntuforums.popey.com/showthread.php?t=386453#post-1) — Networking &amp; Wireless <!--t:386453-->
+  - 2007-03-18 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=386453#post-2) <!--t:386453-->
+- 2007-01-31 [How do I get Ubuntu to detect Asus wireless PCI card?](https://ubuntuforums.popey.com/showthread.php?t=350625#post-1) — Networking &amp; Wireless <!--t:350625-->
+- 2007-04-19 [How do I get back to static ip...](https://ubuntuforums.popey.com/showthread.php?t=413436#post-1) — Networking &amp; Wireless <!--t:413436-->
+  - 2007-04-19 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=413436#post-3) <!--t:413436-->
+- 2007-04-16 [Can't access Netwoking (network-admin) via system&gt;admin&gt;networking](https://ubuntuforums.popey.com/showthread.php?t=411309#post-1) — Networking &amp; Wireless <!--t:411309-->
+- 2006-07-10 [how do i set up LAMP....](https://ubuntuforums.popey.com/showthread.php?t=212991#post-1) — Networking &amp; Wireless <!--t:212991-->
+- 2007-10-13 [wifi in gutsy RC doesn't work](https://ubuntuforums.popey.com/showthread.php?t=575343#post-1) — Networking &amp; Wireless <!--t:575343-->
+- 2007-10-19 [Freezes when connected to wifi via the Network Manager applet &quot;nm-applet&quot;](https://ubuntuforums.popey.com/showthread.php?t=580881#post-1) — Networking &amp; Wireless <!--t:580881-->
+- 2006-09-06 [creating a MySQL database?](https://ubuntuforums.popey.com/showthread.php?t=252401#post-1) — Networking &amp; Wireless <!--t:252401-->
+  - 2006-09-06 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=252401#post-3) <!--t:252401-->
+- 2006-07-18 [Creating MySQL DB...(how?)](https://ubuntuforums.popey.com/showthread.php?t=218125#post-1) — Networking &amp; Wireless <!--t:218125-->
+- 2007-12-05 'Sales of Windows Vista have been disappointing' — Windows <!--t:632059-->
+  - 2007-12-05 [comment 7](https://ubuntuforums.popey.com/showthread.php?t=632059#post-7) <!--t:632059-->
+- 2010-03-18 Name for Ubuntu 10.10 MIGHTY MANX!! — Cafe Games <!--t:1107663-->
+  - 2010-03-18 [comment 129](https://ubuntuforums.popey.com/showthread.php?t=1107663#post-129) <!--t:1107663-->
+- 2007-04-17 [Making Youtube like videos?](https://ubuntuforums.popey.com/showthread.php?t=411669#post-1) — Desktop Effects &amp; Customization <!--t:411669-->
+  - 2007-04-17 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=411669#post-3) <!--t:411669-->
+  - 2007-04-17 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=411669#post-4) <!--t:411669-->
+- 2007-07-17 [windows go black](https://ubuntuforums.popey.com/showthread.php?t=502900#post-1) — Desktop Effects &amp; Customization <!--t:502900-->
+  - 2007-07-17 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=502900#post-2) <!--t:502900-->
+  - 2007-07-17 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=502900#post-4) <!--t:502900-->
+  - 2007-07-18 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=502900#post-5) <!--t:502900-->
+  - 2007-07-19 [comment 6](https://ubuntuforums.popey.com/showthread.php?t=502900#post-6) <!--t:502900-->
+- 2007-04-16 [Feisty's Cube Cap](https://ubuntuforums.popey.com/showthread.php?t=411482#post-1) — Desktop Effects &amp; Customization <!--t:411482-->
+  - 2007-04-17 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=411482#post-3) <!--t:411482-->
+- 2007-06-16 Help with screenlets! — Desktop Effects &amp; Customization <!--t:475395-->
+  - 2007-06-16 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=475395#post-2) <!--t:475395-->
+  - 2007-06-16 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=475395#post-3) <!--t:475395-->
+- 2006-07-05 [Shockwave flash?? (how?)](https://ubuntuforums.popey.com/showthread.php?t=209342#post-1) — Desktop Environments <!--t:209342-->
+- 2006-06-10 [Sound in flash??](https://ubuntuforums.popey.com/showthread.php?t=193608#post-1) — Desktop Environments <!--t:193608-->
+  - 2006-06-10 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=193608#post-3) <!--t:193608-->
+- 2006-09-06 [How do I create a mySQL DB???](https://ubuntuforums.popey.com/showthread.php?t=252373#post-1) — Desktop Environments <!--t:252373-->
+- 2006-09-06 [configuring ROOT password...doing some stuff...then disabling root again/..](https://ubuntuforums.popey.com/showthread.php?t=252398#post-1) — Desktop Environments <!--t:252398-->
+- 2006-07-10 [setting up LAMP...(this will be a multiquestion thread)](https://ubuntuforums.popey.com/showthread.php?t=212976#post-1) — Desktop Environments <!--t:212976-->
+- 2006-07-18 [how do I a MySQL database](https://ubuntuforums.popey.com/showthread.php?t=218107#post-1) — Desktop Environments <!--t:218107-->
+  - 2006-07-18 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=218107#post-2) <!--t:218107-->
+- 2006-09-24 [Computer won't boot...(not even bios?)](https://ubuntuforums.popey.com/showthread.php?t=264013#post-1) — Desktop Environments <!--t:264013-->
+  - 2006-09-24 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=264013#post-2) <!--t:264013-->
+  - 2006-09-24 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=264013#post-3) <!--t:264013-->
+  - 2006-09-24 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=264013#post-5) <!--t:264013-->
+  - 2006-09-24 [comment 7](https://ubuntuforums.popey.com/showthread.php?t=264013#post-7) <!--t:264013-->
+  - 2006-09-24 [comment 9](https://ubuntuforums.popey.com/showthread.php?t=264013#post-9) <!--t:264013-->
+- 2006-07-11 [installing firefox 2 b1](https://ubuntuforums.popey.com/showthread.php?t=213252#post-1) — Desktop Environments <!--t:213252-->
+- 2006-06-15 [Help me! Synaptic + Update manager error](https://ubuntuforums.popey.com/showthread.php?t=197577#post-1) — Desktop Environments <!--t:197577-->
+  - 2006-06-16 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=197577#post-3) <!--t:197577-->
+  - 2006-06-16 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=197577#post-4) <!--t:197577-->
+  - 2006-06-17 [comment 6](https://ubuntuforums.popey.com/showthread.php?t=197577#post-6) <!--t:197577-->
+- 2006-07-05 [iPod to computer...is there a program?](https://ubuntuforums.popey.com/showthread.php?t=209869#post-1) — Desktop Environments <!--t:209869-->
+  - 2006-07-05 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=209869#post-3) <!--t:209869-->
+  - 2006-07-05 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=209869#post-5) <!--t:209869-->
+- 2006-09-04 [changing root hdd to another (larger) hdd???](https://ubuntuforums.popey.com/showthread.php?t=250998#post-1) — Desktop Environments <!--t:250998-->
+- 2007-12-22 [Partial package installation. Installed from .deb file](https://ubuntuforums.popey.com/showthread.php?t=647228#post-1) — Installation &amp; Upgrades <!--t:647228-->
+  - 2007-12-22 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=647228#post-4) <!--t:647228-->
+  - 2007-12-22 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=647228#post-5) <!--t:647228-->
+  - 2007-12-25 [comment 6](https://ubuntuforums.popey.com/showthread.php?t=647228#post-6) <!--t:647228-->
+- 2007-10-24 [Question about nvidia-glx-new and nvidia-settings](https://ubuntuforums.popey.com/showthread.php?t=589283#post-1) — Installation &amp; Upgrades <!--t:589283-->
+- 2007-10-11 any problem in upgrading using cd if the system always work offline? — Installation &amp; Upgrades <!--t:572208-->
+  - 2007-10-11 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=572208#post-3) <!--t:572208-->
+- 2008-12-13 [\[SOLVED\] Segmentation faulty tree... 50%](https://ubuntuforums.popey.com/showthread.php?t=1010569#post-1) — Installation &amp; Upgrades <!--t:1010569-->
+  - 2008-12-14 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=1010569#post-3) <!--t:1010569-->
+- 2007-10-24 [\[SOLVED\] Weird behaviour of synaptic/sources :S](https://ubuntuforums.popey.com/showthread.php?t=589264#post-1) — Installation &amp; Upgrades <!--t:589264-->
+- 2008-10-31 Upgrading to ibex from development version — Installation &amp; Upgrades <!--t:964683-->
+  - 2008-10-31 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=964683#post-3) <!--t:964683-->
+- 2007-10-12 [md5 mismatch error with feisty to gutsy beta/rc upgrade?](https://ubuntuforums.popey.com/showthread.php?t=573778#post-1) — Installation &amp; Upgrades <!--t:573778-->
+  - 2007-10-12 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=573778#post-3) <!--t:573778-->
+  - 2007-10-12 [comment 4](https://ubuntuforums.popey.com/showthread.php?t=573778#post-4) <!--t:573778-->
+  - 2007-10-12 [comment 5](https://ubuntuforums.popey.com/showthread.php?t=573778#post-5) <!--t:573778-->
+  - 2007-10-12 [comment 8](https://ubuntuforums.popey.com/showthread.php?t=573778#post-8) <!--t:573778-->
+- 2007-12-22 Ubuntu-Desktop: The Final Word — Installation &amp; Upgrades <!--t:647192-->
+  - 2007-12-22 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=647192#post-2) <!--t:647192-->
+- 2007-07-21 [dist-upgrading a computer from dapper to feisty...mdadm help](https://ubuntuforums.popey.com/showthread.php?t=506119#post-1) — Installation &amp; Upgrades <!--t:506119-->
+  - 2007-07-21 [comment 2](https://ubuntuforums.popey.com/showthread.php?t=506119#post-2) <!--t:506119-->
+  - 2007-07-21 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=506119#post-3) <!--t:506119-->
+- 2009-06-02 [How do I run kernel updates and not reboot?](https://ubuntuforums.popey.com/showthread.php?t=1176746#post-1) — Installation &amp; Upgrades <!--t:1176746-->
+  - 2009-06-04 [comment 3](https://ubuntuforums.popey.com/showthread.php?t=1176746#post-3) <!--t:1176746-->
